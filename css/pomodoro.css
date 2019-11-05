@@ -1,0 +1,44 @@
+body {
+  background: #22262B;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+button {
+  background: #22262B;
+  border: none;
+}
+
+.circle {
+  width: 500px;
+  height: 500px;
+  border: 1px solid skyblue;
+  margin: 0 auto;
+  margin-top: 3%;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 120px;
+  cursor: pointer;
+  color: white;
+  margin-bottom: 15%;
+}
+
+#textBox {
+  font-size: 26px;
+}
+
+#timeBox {
+  font-size: 36px;
+  margin-top: 20px;
+}
+
+.row {
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+  font-size: 150%;
+  margin-top: 50px;
+}
